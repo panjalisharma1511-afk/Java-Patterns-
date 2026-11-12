@@ -1,4 +1,4 @@
-public class Methods{
+public class solidsquare{
     public static void main(String[]args) {
         int n = 4;
 
